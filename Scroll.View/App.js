@@ -16,21 +16,21 @@ const data = [
 
 const sectionData = [
   {
-    title: 'Fruits A',  
+    title: 'Fruits 1',  
     data: [
       { id: '1', title: 'Blueberry' },  
       { id: '2', title: 'Blueberry' },
     ],
   },
   {
-    title: 'Fruits B',  
+    title: 'Fruits 2',  
     data: [
       { id: '3', title: 'Blueberry' },
       { id: '4', title: 'Blueberry' },
     ],
   },
   {
-    title: 'Fruits C',  
+    title: 'Fruits 3',  
     data: [
       { id: '5', title: 'Blueberry' },
       { id: '6', title: 'Blueberry' },
